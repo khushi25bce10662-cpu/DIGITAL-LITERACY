@@ -3,8 +3,8 @@ BASIC DIGITAL LITERACY PROJECT FOR VITYARTHI
 # Digital Literacy Project
 
 Name: Khushi  
-Reg No: (your reg no)  
-Branch: B.Tech (your branch)  
+Reg No: 25BCE10662  
+Branch: B.Tech (core)  
 Year: 1st Year  
 
 ## About the Project
